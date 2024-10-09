@@ -1,7 +1,5 @@
 # Blockchain_Challenge
-# Blockchain Development Challenge (Go)
-
-Welcome to the Blockchain Development Challenge! This project aims to help you understand and implement core blockchain concepts using Go.
+## Welcome to the Blockchain Development Challenge! An implementation of core blockchain concepts using Go.
 
 ## Objective
 
