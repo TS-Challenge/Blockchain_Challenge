@@ -7,10 +7,21 @@ Your task is to complete the implementation of a basic blockchain system. You'll
 
 ## Getting Started
 
-1. Fork this project to create your own copy.
-2. Read through the code in the `blockchain` folder and `main.go` to understand the structure.
-3. Implement the missing functions marked with `TODO` comments.
-4. Test your implementation by running the `main.go` file.
+1. Fork this project to create your own copy of the repository.
+2. Use GitHub Codespaces:
+    - Click on the green Code button in your forked repository.
+    - Select Codespaces and choose "Create codespace on main" to open your development environment.
+5. Once the Codespace is ready, read through the code in the blockchain/ folder and main.go to understand the structure.
+6. Implement the missing functions marked with TODO comments.
+7. Test your implementation by running the main.go file inside GitHub Codespaces.
+
+## Steps to Follow
+
+1. Fork the repository and set up your environment using GitHub Codespaces.
+2. block.go: Implement the block creation logic and hash calculation.
+3. transaction.go: Handle transaction creation and validation.
+4. main.go: Test the blockchain by adding a genesis block, creating transactions, and adding additional blocks.
+5. Run the code within GitHub Codespaces to test your implementation.
 
 ## Files to Work On
 
@@ -31,6 +42,9 @@ Your task is to complete the implementation of a basic blockchain system. You'll
 - Use the provided `calculateSHA256` function in `block.go` to help with hash calculation.
 - Ensure that each block's `PreviousHash` correctly points to the hash of the previous block.
 - Implement proper validation for transactions based on their type and amount.
+
+## Submission Guidelines
+- After completing the challenge, submit the link to your forked GitHub repository in the LMS submission link text box.
 
 ## Evaluation Criteria
 
