@@ -9,7 +9,7 @@ Your task is to complete the implementation of a basic blockchain system. You'll
 
 ## Getting Started
 
-1. Fork this Replit project to create your own copy.
+1. Fork this project to create your own copy.
 2. Read through the code in the `blockchain` folder and `main.go` to understand the structure.
 3. Implement the missing functions marked with `TODO` comments.
 4. Test your implementation by running the `main.go` file.
